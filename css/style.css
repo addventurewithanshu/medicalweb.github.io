@@ -1,0 +1,80 @@
+.first-nav{
+    height: 75px;
+    width: 100%; 
+   border-bottom: 1px solid;
+}
+.slide-div{
+    height: 300px;
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    width: 50%;
+}
+.my_sec{
+    height: 250px;
+    background-image: url('../images/slide-1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+.my_sec_inner{
+    background-color: rgba(0, 0,255, 0.5);
+}
+.my_sec_1{
+    height: auto;
+    background-image: url('../images/meds.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+.my_sec_inner_1{
+    background-color: rgba(111, 251, 163, 0.944);
+}
+.special{
+    height: 75px;
+    background-color: gray;
+}
+.footer-top{
+    background-color:rgba(0, 0, 0, 0.7);
+}
+.footer-info{
+    color: white;
+}
+.footer-links{
+    color: white;
+}
+.footer-links li a{
+    text-decoration: none;
+    color: white;
+}
+.footer-contact{
+    color: white;
+}
+.footer-newsletter{
+    color:white ;
+}
+.footer-newsletter h4 a{
+    text-decoration: none;
+    color: white;
+}
+.footer_bootom{
+    background-color:black ;
+}
+.copyright{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+.credits{
+    text-align: center;
+    color: white;
+}
+.smi li{
+    display: inline-block;
+    background-color: white;
+    color:red;
+    padding: 10px 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.smi li a{
+    color:green;
+}
